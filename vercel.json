@@ -1,11 +1,1 @@
-{
-  "functions": {
-    "api/products.py": {
-      "runtime": "python3.9"
-    }
-  },
-  "routes": [
-    { "src": "/products", "dest": "/api/products" },
-    { "src": "/api/products", "dest": "/api/products" }
-  ]
-}
+{}
